@@ -1,0 +1,20 @@
+全球化是当今世界发展的趋势，各个大陆、各个国家之间的交流越来越多，语言的交流在全球化进程中也起着越来越重要的作用。本文的目标是调查全球语言的发展趋势，综合考虑大型跨国公司发展的长期和短期效益，选择最佳的位置建立国际办事处建立。
+
+首先，我们建立了一个语言分布模型。用来预测不同语言未来50年的变化；模拟了各种语言说话者随时间推移的分布情况；各种语言的地理分布在同一时期的变化。其中，母语人数的分布和第二语言人数的分布影响不同语言的分布。
+
+然后，通过灰色预测模型对20种语言在未来50年母语人数的变化进行预测，然后通过两种模型预测不同语言的第二语言人数。通过计算不同语言的母语和第二语言人数可以得到不同语言在未来50年的语言大致分布情况。
+	其中，我们先建立了一个只考虑地理因素的语言分布模型，将所有国家按照不同的语言划分为多个语言区，每个语言区内的国家以某一种语言作为母语。将各个国家的首都作为热点城市，并用城市之间的距离定义某种语言在不同地区分布的传播因子。
+	之后我们又建立了一个以经贸关系为核心语言分布模型。该模型将全球经济实力排名前九的国家作为九大经济体，每个经济体都有自己的母语，通过不同经济体之间的经济贸易体量定义经济体间的影响因子，进而得到不同经济体中第二语言的分布情况。
+
+接着，采用灰色预测模型模拟未来50年的人口迁移，通过不同语言区人口净迁入量的变化，进而预测人口迁移的模式和方向， 得到语言地理分布的变化情况。
+
+最后，通过上述模型，考虑地理，经济，交流知识与媒体以及外交等因素，对语言的影响力进行评估。通过层次分析法确定每项指标的权重得出一个三层分层结构，为大型国际公司开设办事处提供依据。
+
+3
+Then, predicting the change of native language numbers in 20 languages in the next 50 years through the gray prediction model, and then predicting the number of second languages in different languages through two models.The approximate language distribution of different languages in the next 50 years can be obtained by calculating the number of native speakers and second languages in different languages.
+4
+Among them, we first establish a language distribution model that considers only geographical factors. All countries are divided into different language areas according to different languages. The countries in each language area have a native language in one language.  Use the capitals of each country as a hotspot city and use the distance between cities to define the spreading factor for a given language in different areas.
+
+6
+Then, the gray forecasting model is used to simulate the population migration in the next 50 years. Through the change of population net migration in different language areas, the pattern and direction of population migration are speculated, and the change of language geography distribution is obtained.
+
